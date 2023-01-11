@@ -21,6 +21,6 @@
     "ts-node-dev": "^1.0.0-pre.44"
   },
   "dependencies": {
-    "class-validator": "^0.12.2"
+    "class-validator": "^0.14.0"
   }
 }
